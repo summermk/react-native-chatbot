@@ -1,6 +1,8 @@
 # React Native Chatbot 
 This is a simple POC to try integrating chatbot in the react native app.
 
+![](screenshots/chatbot-app-demo.gif)
+
 ## Get started
 Before attempting to run it, folow the React Native CLI Quickstart in [React Native environment setup guide](https://reactnative.dev/docs/environment-setup). 
 
@@ -33,3 +35,8 @@ There are some known issues with the current project. We might resolve some of t
 Have a look at our project board to see the progress. 
 - Android has network issues when sending the request
 - The access token for DialogFlow needs to be manually set in .env file. 
+
+
+## Acknowledgements
+The amazing chat UI we're using is [GiftedChat](https://github.com/FaridSafi/react-native-gifted-chat)
+
