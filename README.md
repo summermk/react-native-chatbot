@@ -19,12 +19,12 @@ $ npx react-native start
 
 2. To run the iOS:
 ```
-$ npx react-native start
+$ npx react-native run-ios
 ```
 
 3. To run the Android:
 ```
-$ npx react-native start
+$ npx react-native run-android
 ```
 
 ## Known Issues
